@@ -1,5 +1,5 @@
-# First CMPM120 Project\
-Rocket_Patrol\
+# First CMPM120 Project 
+Rocket_Patrol 
 
 Author: Leland Jin  Nathan Altice\
 SID:    nli32 \
