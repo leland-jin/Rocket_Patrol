@@ -1,7 +1,7 @@
 # nli32_CMPM120
 
-Author: Leland Jin  \
+Author: Leland Jin  Nathan Altice\
 SID:    nli32 \
-Spring 2021 \ 
+Spring 2021  
 
 ---
